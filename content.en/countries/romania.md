@@ -2,6 +2,7 @@
 title: "🇷🇴 Romania"
 date: 2022-02-26T20:59:17+01:00
 draft: false
+summary: "Find help in Romania"
 ---
 
 # Information about entering Romania
@@ -21,8 +22,8 @@ Up to date information about the border crossing points and waiting times: [link
 
 Useful links
 - [Website for government and civilian help fro Ukranian refugees](https://refugees.ro/)
-- [Facebook group: https://www.facebook.com/groups/alaturideucraina))
-- [Legal help for refugees: https://asylum.jrsromania.ro/))
+- [Facebook group](https://www.facebook.com/groups/alaturideucraina))
+- [Legal help for refugees](https://asylum.jrsromania.ro/))
 - [Document with information about crossing the border into Romania](https://docs.google.com/document/d/1JppqxuAdnm8onLxv7Qdtyx6EqCj6-sqWvRrFPKItbYI/edit?fbclid=IwAR35KJwVFjzWmQryivM5Lszx1R4-nR9LthQAWZSE3uw2u3icCXlaelh_eHU)
 - [Ukrainian Refugees in Romania live support group](https://www.facebook.com/groups/1330704040731625)
 - [Romanian National Council for Refugees](https://diaspora-engagement.eu/org/the-romanian-national-council-for-refugees/?fbclid=IwAR3TEaHKNFzPGi0TPcHLbsJSnhZi-ZU8bk1Hsc91vN0a5Uq0pkgib9rCq2A)

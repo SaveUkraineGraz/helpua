@@ -2,7 +2,7 @@
 title: "🇭🇺 Hungary"
 date: 2022-02-26T20:59:09+01:00
 draft: false
-summary: "Find help Hungary"
+summary: "Find help in Hungary"
 slug: "moldova"
 ---
 

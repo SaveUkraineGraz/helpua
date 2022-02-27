@@ -2,7 +2,7 @@
 title: "🇲🇩 Молдова"
 date: 2022-02-26T20:59:05+01:00
 draft: false
-summary: "Add UA desc"
+summary: "Допомога в Молдові"
 slug: "moldova"
 ---
 

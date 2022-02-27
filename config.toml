@@ -3,6 +3,7 @@ languageCode = 'uk'
 title = ''
 theme = "hugo-book"
 defaultContentLanguage = 'ua'
+pluralizelisttitles = false
 [languages]
     [languages.en]
         languageName = "🇺🇸 English"
