@@ -1,5 +1,5 @@
 ---
-title: "Польща"
+title: "🇵🇱 Польща"
 date: 2022-02-26T20:45:33+01:00
 draft: false
 summary: "Click for information on resources in Poland ** Change me to UA **"
