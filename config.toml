@@ -1,0 +1,20 @@
+baseURL = 'https://helpua.at'
+languageCode = 'uk'
+title = 'HelpUA'
+theme = "hugo-book"
+defaultContentLanguage = 'ua'
+[languages]
+    [languages.en]
+        languageName = "English"
+        title = "HelpUA"
+        weight = 2
+        contentDir = 'content.en'
+    [languages.ua]
+        languageName = "yкраїнська"
+        title = "HelpUA"
+        weight = 1
+
+[params]
+    BookTheme = 'auto'
+    BookToC = false
+    BookSection = 'країни'
