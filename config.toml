@@ -6,7 +6,7 @@ defaultContentLanguage = 'ua'
 [languages]
     [languages.en]
         languageName = "🇺🇸 English"
-        title = "HelpUA"
+        title = ""
         weight = 2
         contentDir = 'content.en'
     [languages.ua]
@@ -17,5 +17,8 @@ defaultContentLanguage = 'ua'
 [params]
     BookTheme = 'auto'
     BookToC = false
-    BookSection = 'країни'
+    BookSection = '*'
     BookLogo = 'logo.jpeg'
+
+[markup.goldmark.renderer]
+unsafe= true

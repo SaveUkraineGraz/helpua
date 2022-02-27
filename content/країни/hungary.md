@@ -23,5 +23,5 @@ slug: "hungary"
 - [Інформація для людей, які покидають з України](https://helsinki.hu/wp-content/uploads/2022/02/Hungarian_Helsinki_Comittee_Ukraine_Guide_2022_02_25_EN.pdf)
 - [Юридична та гуманітарна допомога](https://www.facebook.com/helsinkibizottsag)
 - [Група допомоги українцям та їхнім вихованцям у Facebook](https://www.facebook.com/groups/369562874707496/)
-- [Підтримка, притулок для квір людей, які подорожують до Угорщини](queerukrainehungary@protonmail.com)
+- [Підтримка, притулок для квір людей, які подорожують до Угорщини (E-mail)](mailto:queerukrainehungary@protonmail.com)
 - [приватні особи, які пропонують транспорт, притулок на кордоні з Угорщиною](https://www.facebook.com/groups/994143548136400/)

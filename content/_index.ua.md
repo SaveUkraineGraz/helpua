@@ -9,7 +9,11 @@ description: "Information and resources for crossing into EU"
 {{< hint warning >}}
 Просимо вибачення за орфографічні помилки, ми трохи втомилені, але ми постійно оновлюємо наш сайт! Дякуємо всім, хто допоміг зібрати цю інформацію. 
 
-Якщо у вас є будь-яка корисна інформація та відгуки, будь ласка, надішліть її в наш інстаграм: [@helpua.info](https://www.instagram.com/helpua.info/) 
+Якщо у вас є будь-яка корисна інформація та відгуки, будь ласка, надішліть її в наш <i class="fa-brands fa-instagram" style="
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;"></i> інстаграм: [@helpua.info](https://www.instagram.com/helpua.info/) 
 
 Спасибі вам за вашу підтримку. Україна понад усе!
 {{< /hint >}}
