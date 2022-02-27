@@ -9,7 +9,7 @@ summary: "Find help in Romania"
 - Ukranian citizens are welcome to enter Romania. Holders of biometric passports are able to enter the country and stay for up to 90 day. Those who do not have a biometric passport will be able to apply for a visa upon arrival. It is possible to apply for asylum upon arrival.
 - All Ukrainian citizens who arrive in Romania and need medical assistance will be treated in the Romanian medical system
 - Romania has prepared limited accomodation to refugees
-##### Border crossing points
+## Border crossing points
 Border is open in the following cities: 
 - [Mytnyy Post "Dyakovo"](https://www.google.de/maps/place/Mytnyy+Post+%22Dyakovo%22/@47.9239516,22.7373791,9.26z/data=!4m10!1m3!11m2!2smbLiLGCbT_KQsWMfr5SuGQ!3e3!3m5!1s0x47383d45ebe8aa51:0x5ae28dfde900177e!8m2!3d47.9991048!4d23.0022411!15sCgEqkgEXYm9yZGVyX2Nyb3NzaW5nX3N0YXRpb24), 
 - [Punctul de Trecere a Frontierei Sighetul Marmației](https://www.google.de/maps/place/Punctul+de+Trecere+a+Frontierei+Sighetul+Marma%C8%9Biei/@47.9469483,23.2133547,9.26z/data=!4m10!1m3!11m2!2smbLiLGCbT_KQsWMfr5SuGQ!3e3!3m5!1s0x4737bb75bc343ae7:0xb6a5c500525756cc!8m2!3d47.9389198!4d23.8775946!15sCgEqkgEXYm9yZGVyX2Nyb3NzaW5nX3N0YXRpb24), 

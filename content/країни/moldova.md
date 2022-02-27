@@ -19,11 +19,7 @@ https://dpsu.gov.ua/ua/NA-KORDONI-Z-RESPUBLIKOYU-MOLDOVA-2018/
 
 **Усі пункти пропуску на кордоні відкриті, крім Придністров’я**
 
-<span style="font-size: 48px; color: Dodgerblue;">
-    <i class="fas fa-camera"></i>
-  </span>
-
 
 ## Корисні посилання:
 - [Допомога українцям у Молдові / SOS Українці Молдова](https://www.facebook.com/groups/347615063908402)
-- [Безкоштовні пропозиції житла для біженців](999.md/help)
+- [Безкоштовні пропозиції житла для біженців](https://999.md/ru/list/real-estate/housing-for-refugees)
