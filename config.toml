@@ -2,7 +2,7 @@ baseURL = 'https://helpua.at'
 languageCode = 'uk'
 title = ''
 theme = "hugo-book"
-defaultContentLanguage = 'ua'
+defaultContentLanguage = 'uk'
 pluralizelisttitles = false
 [languages]
     [languages.en]
@@ -10,7 +10,7 @@ pluralizelisttitles = false
         title = ""
         weight = 2
         contentDir = 'content.en'
-    [languages.ua]
+    [languages.uk]
         languageName = "🇺🇦 yкраїнська"
         title = ""
         weight = 1
